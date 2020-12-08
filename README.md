@@ -2,7 +2,7 @@
 A Flask app that will obtain your listening history from Spotify deployed to AWS Lambda using the Zappa serverless framework!
 
 ## Try it yourself!
-*This documentation is deplying a Flask app that already exists without having to change it.*
+*This documentation is deploying a Flask app that already exists without having to change it.*
 First, clone the this repo. *Note: commented out code is optional functionalities, such as getting a list of of your play history. By default, this code will only retrieve the last listened song in your Spotify history.
 
 ### Before developing:
