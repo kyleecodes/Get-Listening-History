@@ -1,0 +1,12 @@
+spotify_token = "BQAu1vbeNzgjJEselyt-zt7wTOg5zTQFSZ4_X3niptohVMvKrvnjJA4moph4wa9DjjAgv97U8n88ldqYwVOa8As-wIpHjMiE0M5McPq1B9TItwulGpdYNiOG8gPawVXhWDNj0C_Sxd-bja4pzdXbLiPCUjAUUQ9naEO79EO3B-h_b_y9RjzZwNzcfZBm91G63Z2dDr0hTj9WdUyrRAwlsNHzpN7DCudk3waNRWMWCUwSlOUVJSEWAq7wsYNx01AH-Gr0clkHT4Af3DHXZiQH4MZVAphIw3WW2yE_oYQ"
+SPOTIFY_ID = "f18490f5b10f433fb4eb08769ee05092"
+SPOTIFY_SECRET = "071074e71856477894b3265fd90b7731"
+user_id = "sbwhvx8ubfgnyh7c4ndczfrax"
+redirect = "http://localhost:8888/callback"
+BUCKET="spotify0auth2"
+# TARGET_PLAYLIST=
+# TOKEN_FILE=
+REGION="us-east-1"
+access_code = "BQBFx_l2j86H2anFSisuFfy05wXr2CrtOjVBEzyfpp9GHS_lPNH5ndXYaXWCbTGrqN6kVNS3POMdT1c3kLg"
+refresh_token = "AQCIaIPVmB4xX_NIivNHApqmCC7rkL_Suw8R9ql_vvz1UXrX1Jgc7oY4Hd1cWqa7xC9-iv6k6BCefcd9Rzp8FoveTmkFJ0oZJxb3qHlFA7MD4mAwiJ9LOHqtCXuqTSl1nnA"
+clientIdClientSecret = "ZjE4NDkwZjViMTBmNDMzZmI0ZWIwODc2OWVlMDUwOTI6ZWRiMjEwODgyNmJkNDUxMWIyZmVlZjA2ZjFlMzAwNjA="
