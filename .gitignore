@@ -1,2 +1,4 @@
 secrets.py
 NONE
+!/.aws/credentials
+!/.aws/config
